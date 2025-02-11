@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
         int age = 18;
         if (age <= 17) {
             System.out.println("Ты еще не совершеннолетний, подожди немного))");
